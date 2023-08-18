@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m John Ze(aka "阿泽（johnfrank）") 
+I’m John Ze ( aka "阿泽(johnfrank)" ) 
 
 🔭 working on becoming a qualified open source contributor
 
