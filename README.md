@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🔭 working on becoming a qualified open source contributor
 
-😄 study study day day up ~~
+😄 study study hard day day up ~~
 
 - 💬 wechat: azespace
 - 📧 email: cbkj152@foxmail.com
